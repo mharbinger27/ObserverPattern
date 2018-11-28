@@ -7,7 +7,7 @@ namespace MainApp
         static void Main(string[] args)
         {
             Structure.Program.Run();
-            Investing.Program.Run();
+            Investments.Program.Run();
             Console.WriteLine("Hello World!");
         }
     }

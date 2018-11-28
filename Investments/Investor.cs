@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Investing
+namespace Investments
 {
-    class Investor : IInvestor
+    public class Investor : IInvestor
     {
         private string _name;
         private Stock _stock;
@@ -26,6 +26,17 @@ namespace Investing
         {
             get { return _stock; }
             set { _stock = value; }
+        }
+
+        public string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
+
+        public string GetName()
+        {
+            return Name;
         }
     }
 }

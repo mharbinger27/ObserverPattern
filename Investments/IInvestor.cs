@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Investing
+namespace Investments
 {
-    interface IInvestor
+    public interface IInvestor
     {
         void Update(Stock stock);
+        string GetName();
     }
 }

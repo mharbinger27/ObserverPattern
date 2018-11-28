@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcreteStock.cs" />
+    <Compile Include="IInvestor.cs" />
+    <Compile Include="Investor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stock.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

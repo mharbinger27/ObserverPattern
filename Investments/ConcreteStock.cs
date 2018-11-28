@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Investing
+namespace Investments
 {
-    class IBM : Stock
+    public class ConcreteStock : Stock
     {
         // Constructor
-        public IBM(string symbol, double price)
+        public ConcreteStock(string symbol, double price)
           : base(symbol, price) { }
     }
 }

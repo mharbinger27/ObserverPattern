@@ -1,0 +1,11 @@
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\bin\Debug\netcoreapp2.1\Structure.deps.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\bin\Debug\netcoreapp2.1\Structure.runtimeconfig.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\bin\Debug\netcoreapp2.1\Structure.runtimeconfig.dev.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\bin\Debug\netcoreapp2.1\Structure.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\bin\Debug\netcoreapp2.1\Structure.pdb
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\obj\Debug\netcoreapp2.1\Structure.csprojAssemblyReference.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\obj\Debug\netcoreapp2.1\Structure.csproj.CoreCompileInputs.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\obj\Debug\netcoreapp2.1\Structure.AssemblyInfoInputs.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\obj\Debug\netcoreapp2.1\Structure.AssemblyInfo.cs
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\obj\Debug\netcoreapp2.1\Structure.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\Structure\obj\Debug\netcoreapp2.1\Structure.pdb

@@ -1,0 +1,11 @@
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\bin\Debug\netcoreapp2.1\Investing.deps.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\bin\Debug\netcoreapp2.1\Investing.runtimeconfig.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\bin\Debug\netcoreapp2.1\Investing.runtimeconfig.dev.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\bin\Debug\netcoreapp2.1\Investing.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\bin\Debug\netcoreapp2.1\Investing.pdb
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\obj\Debug\netcoreapp2.1\Investing.csprojAssemblyReference.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\obj\Debug\netcoreapp2.1\Investing.csproj.CoreCompileInputs.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\obj\Debug\netcoreapp2.1\Investing.AssemblyInfoInputs.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\obj\Debug\netcoreapp2.1\Investing.AssemblyInfo.cs
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\obj\Debug\netcoreapp2.1\Investing.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\Investing\obj\Debug\netcoreapp2.1\Investing.pdb

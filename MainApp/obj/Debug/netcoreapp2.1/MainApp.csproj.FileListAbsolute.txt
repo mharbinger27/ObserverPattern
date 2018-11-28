@@ -1,0 +1,16 @@
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\MainApp.deps.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\MainApp.runtimeconfig.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\MainApp.runtimeconfig.dev.json
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\MainApp.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\MainApp.pdb
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\Structure.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\Structure.pdb
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.csprojAssemblyReference.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.AssemblyInfoInputs.cache
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.AssemblyInfo.cs
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.csproj.CopyComplete
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\obj\Debug\netcoreapp2.1\MainApp.pdb
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\Investing.dll
+C:\Users\mattharbinger\source\repos\ObserverPattern\MainApp\bin\Debug\netcoreapp2.1\Investing.pdb

@@ -1,0 +1,15 @@
+
+.vs/ObserverPattern/DesignTimeBuild/.dtbcache
+.vs/ObserverPattern/v15/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.cache
+*.exe
+*.cache
+*.pdb
+*.cache
+*.txt
+*.json
+*.dll

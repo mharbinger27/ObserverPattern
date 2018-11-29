@@ -13,10 +13,7 @@ namespace Investments
 
         public static void Main(string[] args)
         {
-            string userInput = "";
-
-            PrintUsages();
-            Console.ReadKey();
+            Run();
         }
 
         public static void Run()

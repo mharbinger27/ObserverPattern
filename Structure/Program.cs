@@ -6,7 +6,7 @@ namespace Structure
     {
         static void Main(string[] args)
         {
-            
+            Run();
         }
 
         public static void Run()
@@ -20,6 +20,11 @@ namespace Structure
 
             // Change subject and notify observers
             s.SubjectState = "ABC";
+            s.Notify();
+
+            s.SubjectState = "Lunch";
+
+            s.SubjectState = "DEF";
             s.Notify();
 
             // Wait for user
